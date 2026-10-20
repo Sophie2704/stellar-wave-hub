@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-518-github-repo-stats-card",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-518-github-repo-stats-card": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-518-github-repo-stats-card",
+    "origin"
+  ]
+}
